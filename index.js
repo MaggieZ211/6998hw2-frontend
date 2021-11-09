@@ -1,4 +1,5 @@
 // function to do the search and return the images, display the images in front end
+// 
 function searchPhoto() {
     //clear the images area
     var element=document.getElementById("photoArea");
